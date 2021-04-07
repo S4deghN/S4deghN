@@ -1,6 +1,6 @@
-- 👀 I’m interested in game development. I also have 2 years of experience in electronics and embeded system development with AVR and STM32.
+- 😊 I’m interested in game development. I also have 2 years of experience in electronics and embedded system development with AVR and STM32.
 - 🌱 I’m currently learning networking with asio.
-- 💞️ I’m looking to collaborate on game developmetn projects.
+- 🤝 I’m looking to collaborate on game developmetn projects.
 - 📫 sadegh.nobakhti@gmail.com
 
 <!---
