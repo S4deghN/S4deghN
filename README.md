@@ -1,5 +1,5 @@
-Pleb programmer.
-sadegh.nobakhti@gmail.com
+- Pleb programmer.
+- sadegh.nobakhti@gmail.com
 
 <!---
 S4deghN/S4deghN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
